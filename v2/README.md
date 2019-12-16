@@ -43,9 +43,11 @@ This project **simple** prediction to next word and correct word on **Thai langu
       * optimizer = rmsprop
       * loss function = categorical-crossentropy
       * metrics = accuracy
+      
+      ![Model](https://raw.githubusercontent.com/dogterbox/predictive-keyboard/master/v2/model.png)
 
 5. Evaluate: accuracy on test set = **0.7236**
-
+![Traing-Loss](https://raw.githubusercontent.com/dogterbox/predictive-keyboard/master/v2/loss.png)
 
 
 ## Make Predictive Keyboard(foo_app.ipynb)
